@@ -19,7 +19,7 @@ class ArticlesController extends Controller
 
      //   echo $request->url(); die();
 
-        echo $request->user();   die();
+      //  echo $request->user();   die();
 
         $response = ['message' =>  'index function'];
         return response($response, 200);
