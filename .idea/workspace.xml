@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55571f6-9d31-49a6-aac6-68bedf15d501" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/app/Http/Helpers/RedisHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/app/Http/Controllers/ArticlesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/app/Http/Controllers/ArticlesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/test/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/routes/api.php" afterDir="false" />
-    </list>
+    <list default="true" id="d55571f6-9d31-49a6-aac6-68bedf15d501" name="Default Changelist" comment="added redis helper" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,12 +95,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609148097036</updated>
-      <workItem from="1609148104345" duration="43071000" />
+      <workItem from="1609148104345" duration="43716000" />
     </task>
+    <task id="LOCAL-00001" summary="added redis helper">
+      <created>1609623629128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609623629141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added redis helper" />
+    <option name="LAST_COMMIT_MESSAGE" value="added redis helper" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
